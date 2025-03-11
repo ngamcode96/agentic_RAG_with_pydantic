@@ -1,0 +1,15 @@
+[project]
+name = "pydanic-ai-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "crawl4ai>=0.4.248",
+    "logfire>=3.5.3",
+    "playwright>=1.50.0",
+    "pydantic-ai>=0.0.24",
+    "python-dotenv>=1.0.1",
+    "streamlit>=1.42.0",
+    "supabase>=2.13.0",
+]

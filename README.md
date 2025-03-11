@@ -4,11 +4,11 @@
 ```
 
 ### 2. Add API_KEYS
+Add OpenAI API KEY and Supabase CREDENTIALS
+
 ```bash 
     cp .env.example .env
 ```
-Add OpenAI API KEY and Supabase CREDENTIALS
-
 
 ### 3. To run the app
 
